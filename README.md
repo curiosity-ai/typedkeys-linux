@@ -1,1 +1,1 @@
-# typedkeys-linux
+TypedKeys for Linux
